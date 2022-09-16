@@ -1,0 +1,5 @@
+import spam
+
+def bacon():
+
+    
