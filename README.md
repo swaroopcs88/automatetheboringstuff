@@ -37,7 +37,6 @@ Add try and except statements to the previous project to detect whether the user
 
 Conway’s Game of Life is an example of cellular automata: a set of rules governing the behavior of a field made up of discrete cells. In practice, it creates a pretty animation to look at. You can draw out each step on graph paper, using the squares as cells. A filled-in square will be “alive” and an empty square will be “dead.” If a living square has two or three living neighbors, it continues to live on the next step. If a dead square has exactly three living neighbors, it comes alive on the next step. Every other square dies or remains dead on the next step. You can see an example of the progression of steps in Figure 4-8.
 
-image
 ![Four steps in a Conway’s Game of Life simulation](https://user-images.githubusercontent.com/41771221/190932788-dcd06f94-5f3e-4040-9538-cc024b48debe.jpg)
 
 Figure 4-8: Four steps in a Conway’s Game of Life simulation
